@@ -1,6 +1,17 @@
 ## kemme77
-- cs student
+
+- cs student @DHBW
+- interested in ...
 ---
+### currently
+- coming soon ... 
+---
+### languages
+- Python
+- ...
+---
+### tools
+- coming soon ...
 
 <!--
 **kemme77/kemme77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
