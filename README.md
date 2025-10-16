@@ -7,8 +7,8 @@
 - coming soon ... 
 ---
 ### languages
-- Python
-- ...
+- Python (mainly)
+- C, Java, HTML/CSS/JS (basics)
 ---
 ### tools
 - coming soon ...
