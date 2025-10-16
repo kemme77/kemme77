@@ -1,4 +1,6 @@
-## Hi there 👋
+## kemme77
+- cs student
+---
 
 <!--
 **kemme77/kemme77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
