@@ -1,17 +1,16 @@
-## kemme77
+### About me:
 
-- cs student @DHBW
-- interested in ...
+- Cyber Security student @DHBW-Mannhein, Germany
+- learning **encryption, coding, web development, ...**
+  
 ---
-### currently
-- coming soon ... 
+### Interests:
+- Artificial Intelligence 👾
+- Security Awareness ⚠️
+  
 ---
-### languages
-- Python (mainly)
-- C, Java, HTML/CSS/JS (basics)
----
-### tools
-- coming soon ...
+### Tools:
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'> <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'> <img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>
 
 <!--
 **kemme77/kemme77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
